@@ -60,6 +60,9 @@ main {
 }
 main h1 {
 	font-size: 150%;
+	margin: 0;
+	top-padding: .5em;
+	bottom-padding: .25ems;
 	padding: .3em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
@@ -96,6 +99,11 @@ article {
 	border-top: 2px solid #800000;
 	border-bottom: 2px solid #800000;
 }
+article img {
+	float: right;
+	top-margin:
+	left-margin:
+	bottom-margin:
 article h2 {
 	padding-top: 0;
 }
