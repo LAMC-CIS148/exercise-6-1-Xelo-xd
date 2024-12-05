@@ -8,6 +8,9 @@ section{
 }
 aside{ width: 215px;
       float: left;
+      left-padding: 20px;
+      bottom-pdding: 20px;
+      right-padding: 20px;
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -54,7 +57,6 @@ main {
 	clear: left;
 }
 main {
-	padding: 0 30px;
 }
 main h1 {
 	font-size: 150%;
