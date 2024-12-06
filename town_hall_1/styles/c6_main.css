@@ -54,8 +54,6 @@ main {
 main h1 {
 	font-size: 150%;
 	margin: 0;
-	top-padding: .5em;
-	bottom-padding: .25ems;
 	padding: .3em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
