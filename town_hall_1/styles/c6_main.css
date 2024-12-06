@@ -30,7 +30,6 @@ header {
 	background-image: linear-gradient(
 	    30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 }
-
 header h2 {
 	font-size: 175%;
 	color: #800000;
@@ -88,6 +87,11 @@ article h2 {
 article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
+}
+article img {
+	float: right;
+	margin: .5em 0 1em 1em;
+	border: 1px solid black;
 }
 /* the styles for the aside */
 side {
