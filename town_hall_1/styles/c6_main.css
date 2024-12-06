@@ -157,7 +157,7 @@ aside img {
 
 /* the styles for the footer */
 *footer {
-	
+	clear: both;
 	background-color: #931420;
 	
 }
